@@ -23,3 +23,7 @@ Document AI Chat Agent is a conversational interface that leverages NVIDIA AI mo
    ```bash
    git clone https://github.com/yourusername/Document_AI_Chat_Agent.git
    cd Document_AI_Chat_Agent
+
+## Demo
+
+Check out the live demo here: [Document AI Chat Agent](https://huggingface.co/spaces/gizemsarsinlar/Document_AI_Agent).
