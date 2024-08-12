@@ -1,0 +1,9 @@
+langchain>=0.0.193
+langchain-community>=0.0.6
+langchain-core>=0.0.3
+langchain-nvidia-ai-endpoints>=0.0.5
+faiss-cpu>=1.7.2
+gradio>=3.2.1
+transformers>=4.30.0
+arxiv
+pymupdf
